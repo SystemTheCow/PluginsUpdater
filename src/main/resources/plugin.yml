@@ -1,0 +1,8 @@
+name: PluginsUpdateCore
+version: '${project.version}'
+main: com.system32.pluginsupdatecore.Main
+api-version: 1.19
+authors: [ System32 ]
+commands:
+  pluginsupdate:
+    description: Plugin principal command
